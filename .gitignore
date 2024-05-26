@@ -1,0 +1,23 @@
+/.vscode
+/anya_4d_model.ply
+/anya_deformation_accum.pth
+/anya_deformation_table.pth
+/anya_model.ply
+/AVL.py
+/calculate.py
+/evaluation
+/evaluation.zip
+/icecream_mesh (1).obj
+/icecream_mesh.mtl
+/icecream_mesh.obj
+/icecream_model.ply
+/prepar_data_to_json.py
+/python基础知识.md
+/python数据结构.md
+/Python画爱心(1).py
+/test.py
+/vis.py
+/__pycache__
+/数据结构.md
+/练习小程序
+/资料库
