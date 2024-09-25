@@ -1,0 +1,10 @@
+hugging face镜像
+os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+
+github加速
+https://mirror.ghproxy.com/
+
+conda初始化
+conda create -n name 
+conda init bash
+source ~/.bashrc
