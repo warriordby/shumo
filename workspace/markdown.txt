@@ -8,6 +8,7 @@ mim install mmcv-full==1.7.0
 
 hugging face镜像
 os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+wget https://hf-mirror.com/ashawkey/LGM/resolve/main/model_fp16_fixrot.safetensors
 
 github加速
 https://mirror.ghproxy.com/
