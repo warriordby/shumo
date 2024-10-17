@@ -16,3 +16,6 @@ conda初始化
 conda create -n name 
 conda init bash
 source ~/.bashrc
+
+
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
