@@ -12,6 +12,8 @@ wget https://hf-mirror.com/ashawkey/LGM/resolve/main/model_fp16_fixrot.safetenso
 
 github加速
 https://mirror.ghproxy.com/
+https://ghp.ci/
+
 
 conda初始化
 conda create -n name 
