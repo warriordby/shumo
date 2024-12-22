@@ -34,6 +34,9 @@ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/f
 conda config --set show_channel_urls yes
 conda clean --all
 
+sudo apt-get install git
+sudo apt-get install git-lfs
+git clone https://huggingface.co/jiawei011/L4GM
 
 
 
