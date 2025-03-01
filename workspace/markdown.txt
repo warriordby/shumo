@@ -11,9 +11,7 @@ os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
 wget https://hf-mirror.com/ashawkey/LGM/resolve/main/model_fp16_fixrot.safetensors
 
 github加速
-https://mirror.ghproxy.com/
-https://ghp.ci/
-https://gitclone.com/
+https://gitclone.com/github.com/
 
 conda初始化
 conda create -n name 
